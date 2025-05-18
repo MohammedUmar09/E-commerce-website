@@ -28,7 +28,7 @@ javaScript E commerce website/
 ├── login.html              # login page
 ├── shopix.html             # Shopping Cart & Home Page
 ├── checkout.html           # Checkout Page
-├── orders.html             # Yours Orders
+├── orders.html             # Your Orders
 ├── tracking.html           # Track your Order
 ├── profile.html            # Profile details
 ├── contact.html            # Contact support page
