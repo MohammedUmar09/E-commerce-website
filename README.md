@@ -7,12 +7,6 @@ Welcome to **Shopix**, your one-stop online store designed to make shopping fast
 
 ---
 
-## 🚀 Live Preview
-**[🔗 Click here to view the live demo](#)**  
-*(Optional: Add your live deployed link if you have one)*
-
----
-
 ## 📦 What is Shopix?
 
 Shopix is a fully functional **e-commerce front-end project** built with HTML, CSS, JavaScript (and optionally Bootstrap), designed for seamless shopping. It includes features like:
