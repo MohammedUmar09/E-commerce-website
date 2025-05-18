@@ -9,7 +9,7 @@ Welcome to **Shopix**, your one-stop online store designed to make shopping fast
 
 ## 📦 What is Shopix?
 
-Shopix is a fully functional **e-commerce front-end project** built with HTML, CSS, JavaScript (and optionally Bootstrap), designed for seamless shopping. It includes features like:
+Shopix is a fully functional **e-commerce front-end project** built with HTML, CSS, JavaScript and Bootstrap, designed for seamless shopping. It includes features like:
 
 - ✅ Modern UI for browsing and product discovery  
 - 🛒 Shopping cart management  
