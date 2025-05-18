@@ -64,6 +64,28 @@ javaScript E commerce website/
 
 ---
 
+🧪 Testing with Jasmine
+This project uses the Jasmine testing framework to ensure functionality and correctness.
+
+Jasmine was used for unit testing core functionalities such as:
+
+Cart updates
+
+Order tracking logic
+
+DOM interactions
+
+Test files are located in the /tests folder.
+
+To run tests:
+
+Open tests.html in your browser
+
+Or run with a Jasmine test environment
+
+Why Jasmine?
+Jasmine is a powerful behavior-driven framework for testing JavaScript code, and it doesn’t require a DOM or external dependencies.
+
 ## 🔧 How to Use
 
 1. **Clone the repo**:
