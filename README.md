@@ -23,14 +23,18 @@ Shopix is a fully functional **e-commerce front-end project** built with HTML, C
 ## 📂 Folder Structure
 
 ```
-Shopix/
+javaScript E commerce website/
 │
-├── index.html              # Home Page
-├── product.html            # Product Listing / Details
-├── cart.html               # Shopping Cart
+├── login.html              # login page
+├── shopix.html             # Shopping Cart & Home Page
 ├── checkout.html           # Checkout Page
-├── order-confirmation.html# Order Confirmation
+├── orders.html             # Yours Orders
 ├── tracking.html           # Track your Order
+├── profile.html            # Profile details
+├── contact.html            # Contact support page
+├── data/
+│   ├── orders.js/             # data of orders page
+│   ├── products.js/           # data of products page
 ├── assets/
 │   ├── images/             # Product & UI images
 │   ├── css/                # Stylesheets
@@ -45,7 +49,7 @@ Shopix/
 - **HTML5** – Markup
 - **CSS3** – Styling and responsive design
 - **JavaScript** – Dynamic interaction and cart logic
-- **Bootstrap** *(optional)* – For fast, responsive layout
+- **Bootstrap**  – For fast, responsive layout
 
 ---
 
@@ -64,10 +68,14 @@ Shopix/
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/your-username/shopix.git
+   git clone https://github.com/MohammedUmar09/login.git
    ```
 
-2. **Open `index.html`** in your browser to get started!
+2. **Open `login.html`** in your browser
+
+---
+
+3. **Enter yours login details** to get started!
 
 ---
 
@@ -79,7 +87,7 @@ The goal of Shopix was to learn and apply front-end development in a real-world 
 
 ## 🙋‍♂️ Author
 
-**👤 Your Name**  
+**👤 Mohammed Umar**  
 Passionate web developer building projects to learn, grow, and solve real-world problems.
 
 ---
