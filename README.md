@@ -48,7 +48,7 @@ javaScript E commerce website/
 
 - **HTML5** – Markup
 - **CSS3** – Styling and responsive design
-- **JavaScript** – Dynamic interaction and cart logic
+- **JavaScript** – Dynamic interaction and logic
 - **Bootstrap**  – For fast, responsive layout
 
 ---
@@ -64,7 +64,8 @@ javaScript E commerce website/
 
 ---
 
-🧪 Testing with Jasmine
+## 🧪 Testing with Jasmine
+
 This project uses the Jasmine testing framework to ensure functionality and correctness.
 
 Jasmine was used for unit testing core functionalities such as:
