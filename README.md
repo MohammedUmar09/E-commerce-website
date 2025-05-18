@@ -39,6 +39,11 @@ javaScript E commerce website/
 │   ├── images/             # Product & UI images
 │   ├── css/                # Stylesheets
 │   └── js/                 # JavaScript logic
+├── tests/
+│   ├── checkout/             # tests files related to the checkout process
+│   ├── data/                 # data for products, cart items, and test scenarios  
+│   └── lib/                  # Jasmine framework setup and configuration files
+│   └── utils/               # utility files
 └── README.md               # You're reading it!
 ```
 
@@ -68,6 +73,7 @@ javaScript E commerce website/
 
 This project uses the Jasmine testing framework to ensure functionality and correctness.
 
+
 Jasmine was used for unit testing core functionalities such as:
 
 Cart updates
@@ -86,6 +92,8 @@ Or run with a Jasmine test environment
 
 Why Jasmine?
 Jasmine is a powerful behavior-driven framework for testing JavaScript code, and it doesn’t require a DOM or external dependencies.
+
+---
 
 ## 🔧 How to Use
 
