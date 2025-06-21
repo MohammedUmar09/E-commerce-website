@@ -55,8 +55,8 @@ javaScript E commerce website/
 - **CSS3** – Styling and responsive design
 - **JavaScript** – Dynamic interaction and logic
 - **Bootstrap**  – For fast, responsive layout
-
----
+- **Node.js** – Server-side runtime
+- **Firebase** – Authentication & Database
 
 ## 💡 Features Highlight
 
